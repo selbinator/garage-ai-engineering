@@ -7,6 +7,6 @@ Complexity should therefore be evidence-driven. Each additional component must s
 
 Enterprise AI also requires governed access. Retrieval and generation must respect source permissions, ownership and security boundaries rather than treating all available information as equally accessible.
 
-Finally, failure must be measurable. Systems should expose where retrieval, reasoning, generation or validation fail, and provide enough instrumentation to improve them systematically.
+Failure must be measurable. Systems should expose where retrieval, reasoning, generation or validation fail, and provide enough instrumentation to improve them systematically.
 
 The result is an engineering approach focused on economical, explainable and progressively scalable AI systems rather than impressive but fragile demonstrations.
