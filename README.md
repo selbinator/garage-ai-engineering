@@ -27,11 +27,14 @@ Repositories are created when implementation starts. Planned work is deliberatel
 | 4 | `lora-qlora-finetuning` | Fine-tuning an open model with measured before/after performance | 🟡 Planned |
 | 6 | `retrieval-rag-benchmark` | Direct, metadata, lexical and vector retrieval compared using common evaluation data | 🟡 Planned |
 | 7 | `ai-decision-router` | Explicit routing and orchestration using deterministic and model-based decisions | 🟡 Planned |
-| 8 | `decisiontrace-evals` | Evaluation, traceability, regression testing and release gates | 🟡 Planned |
-| 9 | `secure-ai-deployment` | Production-style serving, security, telemetry and operational controls | 🟡 Planned |
-| 10 | `garage-inference-cluster` | Multi-node local inference, routing, saturation and graceful degradation | 🟡 Planned |
-| 11 | `model-cost-governor` | Quality, latency and cost-aware model routing | 🟡 Planned |
-| 13 | `fde-capstone` | Customer-style discovery, implementation, deployment and handover | 🟡 Planned |
+| 8 | `MCP-adaptor` | Model Context Protocol Adaptor and REST/MCP Parity benchmark | 🟡 Planned |
+| 9 | `decisiontrace-evals` | Evaluation, traceability, regression testing and release gates | 🟡 Planned |
+| 10 | `secure-ai-deployment` | Production-style serving, security, telemetry and operational controls | 🟡 Planned |
+| 11 | `garage-cloud` | Container Infrastructure as Code on multiple recycled hardware devices, stack mapped to major cloud providers | 🟡 Planned |
+| 12 | `brownfield-ai-rescue-drill` | Repair Broken AI stack in 8 hour drill| 🟡 Planned |
+| 13 | `garage-inference-cluster` | Multi-node local inference, routing, saturation and graceful degradation | 🟡 Planned |
+| 14 | `model-cost-governor` | Quality, latency and cost-aware model routing | 🟡 Planned |
+| 15 | `fde-capstone` | Customer-style discovery, implementation, deployment and handover | 🟡 Planned |
 
 ## Programme progression
 
